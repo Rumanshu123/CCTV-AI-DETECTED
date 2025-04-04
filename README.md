@@ -1,2 +1,11 @@
 # CCTV-AI-DETECTED
-Project
+
+Team WhenOreoMetParleG
+
+Domain: Video Analytics, CCTV
+
+
+
+
+
+
